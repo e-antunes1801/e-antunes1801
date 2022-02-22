@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-antunes1801
-- 👀 I’m interested in front-end languages
-- 🌱 I’m currently learning html, css and javascript
+- 👀 I’m interested in front-end and back-end languages
+- 🌱 I’m currently learning html, css, javascript and python
 - 📫 eduardo_antunes1801@hotmail.com 
 
 <!---
